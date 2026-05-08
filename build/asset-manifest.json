@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/jobmatch-pro/static/js/main.23e00b52.js",
+    "index.html": "/jobmatch-pro/index.html",
+    "main.23e00b52.js.map": "/jobmatch-pro/static/js/main.23e00b52.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.23e00b52.js"
+  ]
+}
