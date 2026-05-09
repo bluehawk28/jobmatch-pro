@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/jobmatch-pro/static/css/main.e683855d.css",
-    "main.js": "/jobmatch-pro/static/js/main.8fa71821.js",
+    "main.js": "/jobmatch-pro/static/js/main.e5e1fc58.js",
     "index.html": "/jobmatch-pro/index.html",
     "main.e683855d.css.map": "/jobmatch-pro/static/css/main.e683855d.css.map",
-    "main.8fa71821.js.map": "/jobmatch-pro/static/js/main.8fa71821.js.map"
+    "main.e5e1fc58.js.map": "/jobmatch-pro/static/js/main.e5e1fc58.js.map"
   },
   "entrypoints": [
     "static/css/main.e683855d.css",
-    "static/js/main.8fa71821.js"
+    "static/js/main.e5e1fc58.js"
   ]
 }
